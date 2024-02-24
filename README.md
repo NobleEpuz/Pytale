@@ -1,5 +1,5 @@
 # Pytale 
-Undertale Battle Engine based on Pygame, somewhat similar to [Create Your Frisk[(https://github.com/RhenaudTheLukark/CreateYourFrisk). The main goal of the project is to create a convenient framework for creating undertale battles that will work on many devices (Windows/Linux/Mac OS/Android).
+Undertale Battle Engine based on Pygame, somewhat similar to [Create Your Frisk](https://github.com/RhenaudTheLukark/CreateYourFrisk). The main goal of the project is to create a convenient framework for creating undertale battles that will work on many devices (Windows/Linux/Mac OS/Android).
 
 ## Wishlist
 - Text Engine **(65%)**
